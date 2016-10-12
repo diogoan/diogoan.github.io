@@ -4,7 +4,14 @@
     "repositoryName": "diogoan.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "diogoan.github.io",
+    "description": "Um blog de teste",
+    "postsPerPage": "5",
+    "disqus": "diogoan"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
