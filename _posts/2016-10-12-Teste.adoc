@@ -1,5 +1,7 @@
 = Teste
 
+:hp-tags: Teste, 12456
+
 fsdgsdfg
 
 * ffasfgsgdsgsdf
