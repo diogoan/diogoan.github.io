@@ -10,7 +10,10 @@
     "postsPerPage": "5",
     "disqus": "diogoan"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "diogoan@gmail.com",
+    "github": ""
+  },
   "theme": {
     "name": "casper"
   }
