@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[diogoan.github.io]]></title><description><![CDATA[Um blog de teste]]></description><link>https://diogoan.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Oct 2016 22:43:37 GMT</lastBuildDate><atom:link href="https://diogoan.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Teste]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[diogoan.github.io]]></title><description><![CDATA[Um blog de teste]]></description><link>https://diogoan.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 13 Oct 2016 02:38:35 GMT</lastBuildDate><atom:link href="https://diogoan.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Teste]]></title><description><![CDATA[<div class="paragraph">
 <p>fsdgsdfg</p>
 </div>
 <div class="ulist">
@@ -11,6 +11,9 @@
 </li>
 <li>
 <p>fgsdfgdf</p>
+</li>
+<li>
+<p>asodjaisfifej</p>
 </li>
 </ul>
 </div>]]></description><link>https://diogoan.github.io/2016/10/12/Teste.html</link><guid isPermaLink="true">https://diogoan.github.io/2016/10/12/Teste.html</guid><category><![CDATA[Teste]]></category><category><![CDATA[ 12456]]></category><dc:creator><![CDATA[Diogo]]></dc:creator><pubDate>Wed, 12 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
