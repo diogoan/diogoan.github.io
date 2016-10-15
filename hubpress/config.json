@@ -8,7 +8,7 @@
     "title": "Bloco de Notas",
     "description": "Ideias e coisas aleatórias",
     "logo": "/images/home-icon.png",
-    "cover": "/images/simple-background.jpg",
+    "cover": "",
     "postsPerPage": "10",
     "disqus": "diogoan"
   },
