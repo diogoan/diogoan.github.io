@@ -6,8 +6,9 @@
   },
   "site": {
     "title": "Bloco de Notas",
-    "description": "Blog pessoal de Diogo Nóbrega",
+    "description": "Ideias e coisas aleatórias",
     "logo": "/images/home-icon.png",
+    "cover": "/images/simple-background.jpg",
     "postsPerPage": "10",
     "disqus": "diogoan"
   },
