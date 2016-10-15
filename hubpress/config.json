@@ -10,6 +10,7 @@
     "logo": "/images/home-icon.png",
     "cover": "",
     "postsPerPage": "10",
+    "googleAnalytics": "UA-85752016-1",
     "disqus": "diogoan"
   },
   "socialnetwork": {
@@ -17,6 +18,6 @@
     "github": ""
   },
   "theme": {
-    "name": "uno"
+    "name": "uno-zen"
   }
 }
