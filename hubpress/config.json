@@ -5,9 +5,9 @@
     "branch": "master"
   },
   "site": {
-    "title": "diogoan.github.io",
-    "description": "Um blog de teste",
-    "postsPerPage": "5",
+    "title": "Bloco de Notas",
+    "description": "Blog pessoal",
+    "postsPerPage": "10",
     "disqus": "diogoan"
   },
   "socialnetwork": {
