@@ -7,7 +7,7 @@
   "site": {
     "title": "Bloco de Notas",
     "description": "Blog pessoal de Diogo Nóbrega",
-    "logo": "/images/notepad-icon-7.png",
+    "logo": "/images/home-icon.png",
     "postsPerPage": "10",
     "disqus": "diogoan"
   },
