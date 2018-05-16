@@ -2,7 +2,8 @@
   "meta": {
     "username": "diogoan",
     "repositoryName": "diogoan.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "site": {
     "title": "Bloco de Notas",
@@ -11,13 +12,46 @@
     "cover": "",
     "postsPerPage": "10",
     "googleAnalytics": "UA-85752016-1",
-    "disqus": "diogoan"
+    "disqus": "diogoan",
+    "delay": "",
+    "blogPath": ""
   },
   "socialnetwork": {
     "email": "diogoan@gmail.com",
-    "github": ""
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
   },
   "theme": {
-    "name": "saga"
-  }
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://diogoan.github.io",
+    "hubpress": "https://diogoan.github.io",
+    "theme": "//diogoan.github.io/themes/saga",
+    "images": "https://diogoan.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
+  },
+  "navigation": []
 }
