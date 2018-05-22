@@ -36,7 +36,7 @@
   "urls": {
     "site": "https://diogoan.github.io",
     "hubpress": "https://diogoan.github.io",
-    "theme": "//diogoan.github.io/themes/saga",
+    "theme": "//diogoan.github.io/themes/casper",
     "images": "https://diogoan.github.io/images"
   },
   "initialisationConfigComponent": {
