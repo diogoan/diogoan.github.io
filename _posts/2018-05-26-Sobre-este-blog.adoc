@@ -1,0 +1,23 @@
+= Sobre este blog
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /images/notepad-icon-7.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+E então, finalmente eu consegui abrir esse blog aqui. Já faz algum tempo que eu tentava criar um espaço pra divulgar e publicar algumas coisas, porém eu nunca arrumava tempo (sim, procrastinação rola forte aqui). Pra ter uma ideia, esse blog eu tinha criado em 2016, e só vim retomar hoje, dia 26 de Maio de 2018... Já passou várias oportunidades onde eu pensei em escrever e compartilhar algo, mas não tinha nenhum espaço, então melhor inaugurar logo isso aqui de uma vez.
+
+Bom esse texto vai ser um pouco longo, pra explicar as motivações deste espaço e algumas decisões referentes a ele - não que isso importe pra alguém, acho que isso é  mais pra mim mesmo, mas tá aí pra quem quiser ler.
+
+O objetivo desse site é postar algumas coisas mais pessoais (mas nem tanto), coisas do meu interesse (lá embaixo eu falo de alguns temas possíveis). Não quero postar coisas muito técnicas - até porque eu não vou me meter a falar de coisas que não sou especialista (eu espero), mas também não vou focar totalmente em zoeira (pra isso já tem o http://ordemdazoeira.com.br[ODZ]). Quero postar coisas que sejam mais rápidas pra escrever, que não demandem muito esforço, até pra evitar que eu perca a vontade de postar algo (eu não garanto nada, hein).
+
+_E porque eu criaria um blog, se eu poderia usar simplesmente Facebook ou Twitter?_ Bom, geralmente no meu Face eu não costumo escrever algo "original", eu geralmente apenas compartilho e comento coisas que já estão por lá, acredito que mais uma fonte de conteúdo partindo de mim não iria ter relevância por lá. E Twitter, bem, nunca consegui me acostumar a usar aqui lá direito. Outro motivo é que aqui eu tenho um espaço mais "muita independente" de redes sociais, e onde eu posso compartilhar coisas tanto pra pessoas mais próximas quanto pra galera que conheço pela internet.
+
+_E sobre o quê irei falar aqui?_ Como eu falei, aqui vai ser um espaço mais pessoal, então eu penso em compartilhar algumas coisas que eu produzo (ultimamente eu venho fazendo algumas traduções), outras coisas que já tem na internet que acho interessante, coisas sobre games, RPG, computação (sim, pode me chamar de nerd), e quem sabe alguma opinião sobre algum assunto _polêmico_.
+
+_Bloco de Notas?_ Eu sei, é um nome meio manjado, mas é o que temos pra hoje. Pode observar que o link do blog é "diogoan.github.com", então isso pode mudar algum dia (ou não). Mas no momento eu achei um nome bem adequado, reflete algo que é um espaço de anotações, algo que possivelmente é provisório, e algo que você escreve nele sem muitas pretensões.
+
+_Github? Hubpress?_ O Github não é um site de blogs como Blogger ou Wordpress.
+
+
+
