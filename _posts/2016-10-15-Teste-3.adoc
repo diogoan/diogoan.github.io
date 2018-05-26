@@ -1,5 +1,0 @@
-= Teste 3
-
-:hp-tags: Teste
-
-Aparentemente a bio só é atualizada em novos posts...
