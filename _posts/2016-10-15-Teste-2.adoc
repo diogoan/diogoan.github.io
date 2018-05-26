@@ -1,9 +1,0 @@
-= Teste 2
-
-:hp-tags: Teste
-
-Quero ver como fica a questão da biografia abaixo do post.
-
-Teste de imagem:
-
-image::notepad-icon-7.png[]
