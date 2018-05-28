@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bloco de Notas]]></title><description><![CDATA[Bloco de Notas]]></description><link>https://diogoan.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 May 2018 16:38:51 GMT</lastBuildDate><atom:link href="https://diogoan.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bloco de Notas]]></title><description><![CDATA[Bloco de Notas]]></description><link>https://diogoan.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 28 May 2018 19:06:57 GMT</lastBuildDate><atom:link href="https://diogoan.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Dica: Mouse Without Borders]]></title><description><![CDATA[<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+Sim, esse é o primeiro post deste blog. Eu ainda vou postar alguma coisa relativo a "Sobre o blog", e ajustar algumas coisas, mas por enquanto irei já ir escrevendo alguns textos pra não ficar parado, e também pra ir aprendendo a usar isso aqui.
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>Segunda-feira, ainda sob os efeitos da greve dos caminhoneiros, por isso hoje está sendo dia de home office. Estou com o notebook do trabalho aqui e ao mesmo tempo com o meu computador, porém não queria ficar usando somente um ou o outro. Daí me surgiu a ideia de procurar alguma maneira de controlar dois computadores usando apenas um mouse e teclado - já tinha visto algo do tipo, mas não me lembrava de alguma solução específica.</p>
+</div>
+<div class="paragraph">
+<p>Encontrei algumas alternativas, umas pagas[1] e outras gratuitas, e uma delas foi o <a href="https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/"><strong>Mouse Without Borders</strong></a>, da própria Microsoft. Na realidade, faz parte do Microsoft Garage, aquela iniciativa para projetos dos próprios funcionários (ou algo assim). Que inclusive foi de onde veio o Microsoft Launcher para Android.</p>
+</div>
+<div class="paragraph">
+<p>Uma vez instalado, o Mouse Without Borders irá perguntar se já existe outro computador com o programa já instalado:</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://diogoan.github.io/images/mouse1.png" alt="mouse1">
+</div>
+</div>
+<div class="paragraph">
+<p>Caso negativo, ele irá fornecer um código e o nome da máquina que deverá ser informado no outro computador (os dois computadores precisam estar na mesma rede):</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://diogoan.github.io/images/mouse2.png" alt="mouse2">
+</div>
+</div>
+<div class="paragraph">
+<p>Uma vez configurado, é possível alterar diversas configurações, inclusive adicionar mais computadores, e mudar sua ordem:</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://diogoan.github.io/images/mouse4.png" alt="mouse4">
+</div>
+</div>
+<div class="paragraph">
+<p>Um bônus é que, apesar do nome, ele também permite compartilhar o teclado, e a área de transferência é compartilhada entre os dois PCs (na página da Microsoft, diz que é possível mover arquivos arrastando entre as duas áreas de trabalho, mas eu não consegui fazer isso).</p>
+</div>
+<div class="paragraph">
+<p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=35460">Download aqui</a></p>
+</div>
+<div class="paragraph">
+<p><em>* PS: na minha busca eu acidentalmente comprei um programa do tipo por 29 dólares. Eu fui criar uma conta pra ver se tinha alguma versão trial, cliquei na opção "PayPal" pra ver quanto dava em reais (deu 117,89) e pimba! Já tinha comprado. Isso que dá ficar com o PayPal logado. Mas podem relevar esse fato, já até solicitei reembolso&#8230;&#8203;</em></p>
+</div>]]></description><link>https://diogoan.github.io/2019/01/31/Dica-Mouse-Without-Borders.html</link><guid isPermaLink="true">https://diogoan.github.io/2019/01/31/Dica-Mouse-Without-Borders.html</guid><category><![CDATA[Dica]]></category><category><![CDATA[Software]]></category><category><![CDATA[Windows]]></category><category><![CDATA[Lifehack]]></category><dc:creator><![CDATA[Diogo Nóbrega]]></dc:creator><pubDate>Thu, 31 Jan 2019 00:00:00 GMT</pubDate></item></channel></rss>
